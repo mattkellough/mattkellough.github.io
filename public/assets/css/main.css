@@ -3375,6 +3375,7 @@
 /* Banner */
 
 	#banner {
+    background-image: url("../images/banner.jpg");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
