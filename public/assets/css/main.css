@@ -3394,6 +3394,8 @@
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		background-repeat: no-repeat;
+		background-size: cover;
 	}
 
 		#banner h2 {

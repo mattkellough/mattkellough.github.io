@@ -1,5 +1,5 @@
 require 'sinatra'
 #
 get '/' do
-  redirect '/MrK.html'
+  redirect '/index.html'
 end
